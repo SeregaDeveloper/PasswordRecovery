@@ -39,7 +39,7 @@ def Recover():
          break
    return 0
 if __name__ == "__main__":
-   print ("Программа для восстановления паролей \n"
+   print ("Programm for password recovery \n"
           "Author: https://github.com/SeregaDeveloper\n"
           "Repository:\n"
           "Current alphabet:", chars)
